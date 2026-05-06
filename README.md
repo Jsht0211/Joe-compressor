@@ -17,7 +17,7 @@ A shit compressor based on another compressor🤩
 After saving the file as `joe-compressor.sh`, run the following commands on your terminal:
 ```
 mv joe-compressor.sh /usr/local/bin/jcmprs
-chmod 4777 /usr/local/bin/jcmprs
+chmod 6767 /usr/local/bin/jcmprs
 ```
 
 ---
